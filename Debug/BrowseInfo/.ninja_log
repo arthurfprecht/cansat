@@ -385,3 +385,46 @@
 1165	1343	6803079163914339	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Projeto Final_part5.pbi	71610971dc86205d
 1359	1583	6803079166324063	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Projeto Final.pbd	5eb3cd9d798ac5bf
 1599	2820	6803079178228897	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Projeto Final.pbw	c08c5ed86a5f5684
+8	157	6803084486566850	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/adc.pbi	26ed8e2241fcd4f9
+163	320	6803084488212443	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/dma.pbi	611343fb17e1d908
+27	343	6803084488262317	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/adc_f1.pbi	f392eb2a448530c2
+325	507	6803084490042650	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/dma_f1.pbi	abf5a6ea7d2e0530
+350	608	6803084491049954	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/exti.pbi	6f32855ee486a6c1
+512	680	6803084491807901	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/gpio_f1.pbi	9e74b203a00da30f
+613	773	6803084492725458	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/exti_f1.pbi	40c3aedf1ab9179c
+686	863	6803084493637308	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/i2c_f1.pbi	acf9026a06457244
+869	971	6803084494699586	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/flash.pbi	aacfd3ccb332a962
+780	997	6803084494958887	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/i2c.pbi	2ebd7c9cd71075a1
+977	1131	6803084496290477	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/gpio.pbi	d97af9f538b81216
+1002	1169	6803084496664654	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/spi.pbi	a38bc960202f0508
+1136	1322	6803084498220487	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/spi_f1.pbi	a7e56d5c8e31b7aa
+1176	1340	6803084498280322	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/rcc_f1.pbi	27af6a17ef177058
+1346	1474	6803084499756363	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/rcc.pbi	9b40cf9a7db40921
+1327	1510	6803084500075521	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/sysInit .pbi	744f8c7ddf1ae1fb
+14	114	6803084553520485	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/systick.pbi	53cb8a30fe78cd5a
+29	160	6803084553969284	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/nvic.pbi	3e8e71cd4c96fbca
+167	323	6803084555580864	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/gpio-driver.pbi	b74f61e94328860a
+122	421	6803084556568304	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/adc-driver.pbi	8328b30ee3ca4100
+329	526	6803084557615430	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/util.pbi	7910df87648bd6cb
+426	610	6803084558458315	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/led-driver.pbi	a2ea78f9134484b0
+532	723	6803084559600400	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/usart_f1.pbi	a863257135ed4e65
+616	813	6803084560493193	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/timer.pbi	b371ac62384787ce
+728	908	6803084561450628	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Wire/WireBase.pbi	b3e37f87ca5f0723
+818	988	6803084562238523	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/usart_private.pbi	88796be4f23e6205
+914	1112	6803084563425354	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Wire/HardWire.pbi	e97bcbbe2d351da1
+994	1261	6803084564871477	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Wire/Wire.pbi	f50b8a3c3e57393f
+1118	1349	6803084565798999	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/usart.pbi	9cd9caeb044f601
+1266	1542	6803084567773730	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Core/util_adc.pbi	f3482bd91adf52c6
+1356	1682	6803084569169984	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/SPI/SPI.pbi	bc640fdc3ccc1a96
+1688	1790	6803084570277019	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Projeto Final_part0.pbi	843519fe959725e8
+1547	1849	6803084570845506	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/main.pbi	c2bb3f0503f8145e
+1856	1962	6803084572012383	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Projeto Final_part3.pbi	2ee273dc61492519
+1803	2019	6803084572550934	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/timer-driver.pbi	b3a9d720edaccd95
+1976	2111	6803084573488438	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Projeto Final_part4.pbi	de1dd814150bb7b0
+2026	2228	6803084574635380	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/usart-driver.pbi	450ed38179cb9b44
+2233	2324	6803084575632711	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Projeto Final_part1.pbi	e3a0ad1e839a10c3
+2125	2370	6803084575971793	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/pwm-driver.pbi	deba4a1d7aacf42c
+2339	2443	6803084576839553	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Projeto Final_part2.pbi	1941483214627357
+2378	2485	6803084577250949	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Projeto Final_part5.pbi	71610971dc86205d
+2499	2642	6803084578821338	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Projeto Final.pbd	5eb3cd9d798ac5bf
+2660	3824	6803084590275906	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/BrowseInfo/Projeto Final.pbw	c08c5ed86a5f5684
