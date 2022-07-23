@@ -4,6 +4,9 @@
 #include "Core\timer.h"
 #include "timer-driver.h"
 
+#ifndef pwm_driver_h
+#define pwm_driver_h
+
 typedef struct stm32_pin_info {
     gpio_dev *gpio_device;      /**< Maple pin's GPIO device */
     timer_dev *timer_device;    /**< Pin's timer device, if any. */
@@ -17,3 +20,5 @@ uint8_t pwm_config(uint8_t pwm_num, uint8_t pin);
 uint8_t pwm_on(uint8_t pwm_num); // ligar
 uint8_t pwm_off(uint8_t pwm_num); // desligar
 uint8_t pwm_set(uint8_t pwm_num, uint16_t duty); //trocar duty cycle (razão cíclica)
+
+#endif

@@ -1,5 +1,8 @@
 #include "adc.h"
 
+#ifdef __cplusplus
+extern "C"{
+#endif
 
 void start_single_convert(adc_dev* dev, uint8 channel);
 
@@ -28,3 +31,7 @@ void set_continuous( adc_dev * dev);
 uint8 poll_adc_convert(adc_dev *dev);
 
 void adc_dma_enable(adc_dev * dev);
+
+#ifdef __cplusplus
+}
+#endif

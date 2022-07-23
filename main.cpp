@@ -10,15 +10,20 @@
 #include "adc-driver.h"
 #include "usart-driver.h"
 
+#include "SPI/SPI.h"
+#include "Wire/Wire.h"
+
 int main()
 {
   	systemInit();
   	uart_config(1, 57600);
-	printf("Iniciando teste de millis: \n");
+	printf("Iniciando teste de I2C: \n");
 	while(!buffer_empty(1, 'w'));
 	
-  	start_millis(2); 
-	while(1)
+	Wire.begin();
+	start_millis(2); 
+	
+  	while(1)
 	{
 	  printf("Tempo =  %i ms \n", time_miliseconds);
 	  while(!buffer_empty(1, 'w'));

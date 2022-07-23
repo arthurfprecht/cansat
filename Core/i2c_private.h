@@ -27,6 +27,10 @@
 #ifndef _LIBMAPLE_I2C_PRIVATE_H_
 #define _LIBMAPLE_I2C_PRIVATE_H_
 
+#ifdef __cplusplus
+extern "C"{
+#endif
+
 #include "i2c_common.h"
 
 /* For old-style definitions (SDA/SCL on same GPIO device) */
@@ -75,5 +79,9 @@ static inline struct gpio_dev* sda_port(const i2c_dev *dev) {
 /* Auxiliary procedure for enabling an I2C peripheral; `flags' as for
  * i2c_master_enable(). */
 void _i2c_set_ccr_trise(i2c_dev *dev, uint32 flags);
+
+#ifdef __cplusplus
+}
+#endif
 
 #endif  /* _LIBMAPLE_I2C_PRIVATE_H_ */

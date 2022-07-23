@@ -8,6 +8,18 @@
 
 #define VECT_TAB_OFFSET 0
 
+
+static void setup_nvic(void);
+static void setup_clocks(void);
+static void setup_flash(void) ;
+
+void systemInit(void)
+{
+  	setup_flash();
+	setup_clocks();
+    setup_nvic();
+}
+
 static void setup_flash(void) {
     // Turn on as many Flash "go faster" features as
     // possible. flash_enable_features() just ignores any flags it
@@ -96,11 +108,4 @@ nvic_init((uint32)VECT_TAB_ADDR, (uint32)VECT_TAB_OFFSET);
 #endif
 
 */
-}
-
-void systemInit(void)
-{
-  	setup_flash();
-	setup_clocks();
-    setup_nvic();
 }
