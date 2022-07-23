@@ -3,6 +3,7 @@
   created by Keith Hungerford, 15 september 2017
   Updated for bme280 an reorganising code 18 Dec 2018
   Released into the public domain for personal use and not-for-profit projects.
+  Leo
 */
 #ifndef farmerkeith_BMP280_h
 #define farmerkeith_BMP280_h
