@@ -35,6 +35,10 @@
 #include "gpio.h"
 #include "nvic.h"
 
+#ifdef __cplusplus
+extern "C"{
+#endif
+
 /* (Undocumented) hooks used by Wirish to direct our behavior here */
 extern __weak void __lm_error(void);
 extern __weak usart_dev* __lm_enable_error_usart(void);
@@ -148,3 +152,7 @@ __attribute__((noreturn)) void throb(void) {
         ;
 #endif
 }
+
+#ifdef __cplusplus
+}
+#endif

@@ -32,6 +32,10 @@
 #include "i2c_private.h"
 #include "i2c.h"
 
+#ifdef __cplusplus
+extern "C"{
+#endif
+
 /*
  * Devices
  */
@@ -127,3 +131,7 @@ void _i2c_irq_priority_fixup(i2c_dev *dev) {
     nvic_irq_set_priority(dev->ev_nvic_line, 0);
     nvic_irq_set_priority(dev->er_nvic_line, 0);
 }
+
+#ifdef __cplusplus
+}
+#endif

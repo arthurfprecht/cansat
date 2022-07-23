@@ -34,6 +34,10 @@
 
 #include "rcc_private.h"
 
+#ifdef __cplusplus
+extern "C"{
+#endif
+
 /**
  * @brief Get a peripheral's clock domain
  * @param id Clock ID of the peripheral whose clock domain to return
@@ -63,7 +67,7 @@ void rcc_switch_sysclk(rcc_sysclk_src sysclk_src) {
 	int a=1;
     /* Wait for new source to come into use. */
     while ((RCC_BASE->CFGR & RCC_CFGR_SWS) != (sysclk_src << 2))
-      a++;  
+      a++;
 }
 
 /*
@@ -169,3 +173,7 @@ int rcc_is_clk_ready(rcc_clk clock) {
   	 int sinal = (int)(*rcc_clk_reg(clock) & rcc_clk_ready_mask(clock));
     return sinal;
 }
+
+#ifdef __cplusplus
+}
+#endif

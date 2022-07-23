@@ -44,6 +44,10 @@
 
 #include <string.h>
 
+#ifdef __cplusplus
+extern "C"{
+#endif
+
 static inline int32 wait_for_state_change(i2c_dev *dev,
                                           i2c_state state,
                                           uint32 timeout);
@@ -235,7 +239,7 @@ int32 i2c_master_xfer(i2c_dev *dev,
 
     i2c_enable_irq(dev, I2C_IRQ_EVENT);
     i2c_start_condition(dev);
-    
+
     rc = wait_for_state_change(dev, I2C_STATE_XFER_DONE, timeout);
     if (rc < 0) {
         goto out;
@@ -518,3 +522,7 @@ static void set_ccr_trise(i2c_dev *dev, uint32 flags) {
     i2c_set_clk_control(dev, ccr);
     i2c_set_trise(dev, trise);
 }
+
+#ifdef __cplusplus
+}
+#endif

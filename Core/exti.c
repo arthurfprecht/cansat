@@ -35,6 +35,10 @@
 #include "nvic.h"
 #include "bitband.h"
 
+#ifdef __cplusplus
+extern "C"{
+#endif
+
 static inline void dispatch_single_exti(uint32 exti_num);
 static inline void dispatch_extis(uint32 start, uint32 stop);
 
@@ -290,3 +294,7 @@ static inline __always_inline void dispatch_extis(uint32 start, uint32 stop) {
     /* Clear the pending bits for handled EXTIs. */
     clear_pending_msk(handled_msk);
 }
+
+#ifdef __cplusplus
+}
+#endif

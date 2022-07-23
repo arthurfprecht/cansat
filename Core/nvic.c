@@ -34,6 +34,10 @@
 #include "scb.h"
 #include "stm32.h"
 
+#ifdef __cplusplus
+extern "C"{
+#endif
+
 /**
  * @brief Set interrupt priority for an interrupt line
  *
@@ -101,3 +105,7 @@ void nvic_sys_reset() {
     while (1)
         ;
 }
+
+#ifdef __cplusplus
+}
+#endif

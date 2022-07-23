@@ -35,6 +35,10 @@
 #include "spi.h"
 #include "bitband.h"
 
+#ifdef __cplusplus
+extern "C"{
+#endif
+
 static void spi_reconfigure(spi_dev *dev, uint32 cr1_config);
 
 /*
@@ -164,3 +168,7 @@ static void spi_reconfigure(spi_dev *dev, uint32 cr1_config) {
 	dev->regs->CR1 = cr1_config;
 	spi_peripheral_enable(dev);
 }
+
+#ifdef __cplusplus
+}
+#endif

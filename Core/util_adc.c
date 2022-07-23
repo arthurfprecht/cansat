@@ -3,6 +3,10 @@
 //#include "boards.h"
 #include "dma.h"
 
+#ifdef __cplusplus
+extern "C"{
+#endif
+
 /*
     Interrupt function.
     This handles Analog watchdog and ADC1 and 2.
@@ -203,3 +207,7 @@ void takeSamples ()
 }
 
 */
+
+#ifdef __cplusplus
+}
+#endif

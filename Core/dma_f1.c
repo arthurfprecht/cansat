@@ -35,6 +35,10 @@
 #include "dma.h"
 #include "bitband.h"
 
+#ifdef __cplusplus
+extern "C"{
+#endif
+
 /* Hack to ensure inlining in dma_irq_handler() */
 #define DMA_GET_HANDLER(dev, tube) (dev->handlers[tube - 1].handler)
 #include "dma_private.h"
@@ -409,5 +413,9 @@ void __irq_dma2_channel4_5(void) {
     if ((DMA2_BASE->CCR5 & DMA_CCR_EN) && (DMA2_BASE->ISR & DMA_ISR_GIF5)) {
         dma_irq_handler(DMA2, DMA_CH5);
     }
+}
+#endif
+
+#ifdef __cplusplus
 }
 #endif

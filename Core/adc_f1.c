@@ -34,7 +34,11 @@
 
 #include "adc.h"
 #include "gpio.h"
-#include "nvic.h"//Added by bubulindo. 
+#include "nvic.h"//Added by bubulindo.
+
+#ifdef __cplusplus
+extern "C"{
+#endif
 
 /*
  * Devices
@@ -61,7 +65,7 @@ adc_dev adc3 = {
     .regs   = ADC3_BASE,
     .clk_id = RCC_ADC3,
     .handlers = {[3]=0}, //added by bubulindo. EOC, JEOC, AWD
-    .irq_num = NVIC_ADC3,//added by bubulindo. 
+    .irq_num = NVIC_ADC3,//added by bubulindo.
 };
 /** ADC3 device. */
 adc_dev *ADC3 = &adc3;
@@ -69,8 +73,8 @@ adc_dev *ADC3 = &adc3;
 
 
 /*
-    adc irq routine. 
-    Added by bubulindo. 
+    adc irq routine.
+    Added by bubulindo.
 */
 void __irq_adc() {
     //get status
@@ -103,7 +107,7 @@ void __irq_adc() {
 
 
 /*
-    ADC3 IRQ handler. 
+    ADC3 IRQ handler.
     added by bubulindo
 */
 #if defined(STM32_HIGH_DENSITY) || defined(STM32_XL_DENSITY)
@@ -138,7 +142,7 @@ void __irq_adc3() {
 #endif
 
 /*
-    enable interrupts on the ADC: 
+    enable interrupts on the ADC:
     use ADC_EOC, ADC_JEOC, ADC_AWD
     This will set up the interrupt bit in the ADC as well as in the NVIC.
     added by bubulindo
@@ -155,7 +159,7 @@ void adc_enable_irq(adc_dev* dev, uint8 interrupt) {//ADC1 for now.
 */
 
 void adc_attach_interrupt(adc_dev *dev,
-                            uint8 interrupt, 
+                            uint8 interrupt,
                             voidFuncPtr handler) {
     dev->handlers[interrupt] = handler;
     adc_enable_irq(dev, interrupt);
@@ -214,3 +218,7 @@ void adc_enable_single_swstart(adc_dev *dev) {
     adc_enable(dev);
     adc_calibrate(dev);
 }
+
+#ifdef __cplusplus
+}
+#endif

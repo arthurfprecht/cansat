@@ -34,6 +34,10 @@
 
 #include "usart.h"
 
+#ifdef __cplusplus
+extern "C"{
+#endif
+
 /**
  * @brief Initialize a serial port.
  * @param dev         Serial port to be initialized
@@ -150,3 +154,7 @@ void usart_putudec(usart_dev *dev, uint32 val) {
         usart_putc(dev, digits[i]);
     }
 }
+
+#ifdef __cplusplus
+}
+#endif
