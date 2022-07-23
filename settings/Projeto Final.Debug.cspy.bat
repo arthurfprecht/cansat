@@ -25,7 +25,7 @@ if not "%~1" == "" goto debugFile
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\settings\Projeto Final.Debug.general.xcl" --backend -f "C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\settings\Projeto Final.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\settings\Projeto Final.Debug.general.xcl" --backend -f "C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\settings\Projeto Final.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\settings\Projeto Final.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\settings\Projeto Final.Debug.driver.xcl" 
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\common\bin\cspybat" -f "C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\settings\Projeto Final.Debug.general.xcl" "--debug_file=%~1" --backend -f "C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\settings\Projeto Final.Debug.driver.xcl" 
 
 @echo off 
 :end

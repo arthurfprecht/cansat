@@ -1,10 +1,10 @@
-C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Debug\BrowseInfo\Wire\WireBase.pbi: \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\WireBase.cpp \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\WireBase.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\i2c.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\i2c_sub.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\i2c_common.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\libmaple_types.h \
+C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Debug\BrowseInfo\Wire\WireBase.pbi: \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\WireBase.cpp \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\WireBase.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\i2c.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\i2c_sub.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\i2c_common.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\libmaple_types.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdint.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ycheck.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\yvals.h \
@@ -13,16 +13,16 @@ C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Product.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stddef.h \
   C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ysizet.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\nvic.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\util.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\nvic_sub.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\stm32.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\stm32_sub.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\..\blue_pill_info.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\rcc.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\rcc_sub.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\bitband.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\gpio.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\gpio_sub.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\exti.h \
-  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto\ Final\ -\ C++\Wire\..\Core\exti_sub.h
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\nvic.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\util.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\nvic_sub.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\stm32.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\stm32_sub.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\..\blue_pill_info.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\rcc.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\rcc_sub.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\bitband.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\gpio.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\gpio_sub.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\exti.h \
+  C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Wire\..\Core\exti_sub.h

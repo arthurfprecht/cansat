@@ -36,7 +36,6 @@
 #include "gpio.h"
 #include "usart_private.h"
 
-
 #ifdef __cplusplus
 extern "C"{
 #endif 

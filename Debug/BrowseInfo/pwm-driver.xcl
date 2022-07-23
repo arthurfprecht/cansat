@@ -1,15 +1,15 @@
-"C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\pwm-driver.c"
+"C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\pwm-driver.c"
 -std=c++17
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\Debug\BrowseInfo\pwm-driver.pbi.dep
+C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Debug\BrowseInfo\pwm-driver.pbi.dep
 -o
-C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\Debug\BrowseInfo\pwm-driver.pbi
+C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Debug\BrowseInfo\pwm-driver.pbi
 -I
-C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++
+C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\inc\c\aarch32
 -I

@@ -1,15 +1,15 @@
-"C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\SPI\SPI.cpp"
+"C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\SPI\SPI.cpp"
 -std=c++17
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\Debug\BrowseInfo\SPI\SPI.pbi.dep
+C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Debug\BrowseInfo\SPI\SPI.pbi.dep
 -o
-C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\Debug\BrowseInfo\SPI\SPI.pbi
+C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Debug\BrowseInfo\SPI\SPI.pbi
 -I
-C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\SPI
+C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\SPI
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\inc\c\aarch32
 -I

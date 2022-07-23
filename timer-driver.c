@@ -38,7 +38,7 @@ uint8_t timer_config(uint8_t timer_num, uint16_t period_ms)
 		  timer_attach_interrupt(timer, timer_num, increaseTime); 
 		  started_timer[timer_num]=1;
 		}
-	
+		sucesso=1;
 	}
 	else
 	{
@@ -56,6 +56,7 @@ uint8_t timer_start(uint8_t timer_num)
 		timer_dev *timer = get_timer_struct(timer_num);
 		timer_gen_reg_map *regs=timer->regs.gen;
 		regs->CR1 |= (1U<<TIMER_CR1_CEN_BIT);
+		sucesso = 1;
 	}
 	else
 	{
@@ -102,9 +103,9 @@ void increaseTime(void)
 uint8_t start_millis(uint8_t timer_num)
 {
   uint8_t sucesso = 0;
-	if (timer_config(timer_num, 1))
+	if (timer_config(timer_num, 1)==1)
 	{
-	  if(timer_start(timer_num))
+	  if(timer_start(timer_num)==1)
 	  {
 		sucesso=1;
 	  }

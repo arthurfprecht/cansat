@@ -1,15 +1,15 @@
-"C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\Core\adc.c"
+"C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Core\adc.c"
 -std=c++17
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\Debug\BrowseInfo\Core\adc.pbi.dep
+C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Debug\BrowseInfo\Core\adc.pbi.dep
 -o
-C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\Debug\BrowseInfo\Core\adc.pbi
+C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Debug\BrowseInfo\Core\adc.pbi
 -I
-C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\Projeto Final - C++\Core
+C:\Users\arthu\Documents\Programas\PortableApps\GeanyPortable\Programas\Projeto_de_sistemas_embarcados\gits\cansat\Core
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\inc\c\aarch32
 -I

@@ -35,6 +35,10 @@
 #include "stm32.h"
 #include "timer_private.h"
 
+#ifdef __cplusplus
+extern "C"{
+#endif 
+
 static void disable_channel(timer_dev *dev, uint8 channel);
 static void pwm_mode(timer_dev *dev, uint8 channel);
 static void output_compare_mode(timer_dev *dev, uint8 channel);
@@ -548,3 +552,7 @@ void __irq_tim8_cc(void) {
     dispatch_adv_cc(TIMER8);
 }
 #endif  /* defined(STM32_HIGH_DENSITY) || defined(STM32_XL_DENSITY) */
+
+#ifdef __cplusplus
+}
+#endif 
