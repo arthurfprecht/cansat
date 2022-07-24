@@ -52,9 +52,9 @@
         PUBWEAK MemManage_Handler
         PUBWEAK BusFault_Handler
         PUBWEAK UsageFault_Handler
-        PUBWEAK SVC_Handler
+        PUBWEAK __exc_svc
         PUBWEAK DebugMon_Handler
-        PUBWEAK PendSV_Handler
+        PUBWEAK __exc_pendsv
         PUBWEAK __exc_systick
 
         PUBLIC  __default_handler_Exit
@@ -71,9 +71,9 @@ HardFault_Handler
 MemManage_Handler
 BusFault_Handler
 UsageFault_Handler
-SVC_Handler
+__exc_svc
 DebugMon_Handler
-PendSV_Handler
+__exc_pendsv
 __exc_systick
 Default_Handler
 __default_handler_Exit:

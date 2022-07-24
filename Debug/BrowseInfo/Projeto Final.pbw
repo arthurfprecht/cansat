@@ -89799,76 +89799,6 @@
     "scope": null
   },
   {
-    "ID": "c:@bmp_280",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "bmp_280",
-    "location": {
-      "column": "8",
-      "line": "20",
-      "path": "C:\\Users\\arthu\\Documents\\Programas\\PortableApps\\GeanyPortable\\Programas\\Projeto_de_sistemas_embarcados\\gits\\cansat\\main.cpp"
-    },
-    "name": "bmp_280",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@main#",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "int main(void)",
-    "location": {
-      "column": "5",
-      "line": "22",
-      "path": "C:\\Users\\arthu\\Documents\\Programas\\PortableApps\\GeanyPortable\\Programas\\Projeto_de_sistemas_embarcados\\gits\\cansat\\main.cpp"
-    },
-    "name": "main",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.cpp@628@F@main#@temperatura",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "temperatura",
-    "location": {
-      "column": "11",
-      "line": "37",
-      "path": "C:\\Users\\arthu\\Documents\\Programas\\PortableApps\\GeanyPortable\\Programas\\Projeto_de_sistemas_embarcados\\gits\\cansat\\main.cpp"
-    },
-    "name": "temperatura",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.cpp@628@F@main#@pressao",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "pressao",
-    "location": {
-      "column": "24",
-      "line": "37",
-      "path": "C:\\Users\\arthu\\Documents\\Programas\\PortableApps\\GeanyPortable\\Programas\\Projeto_de_sistemas_embarcados\\gits\\cansat\\main.cpp"
-    },
-    "name": "pressao",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.cpp@628@F@main#@altitude",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "altitude",
-    "location": {
-      "column": "33",
-      "line": "37",
-      "path": "C:\\Users\\arthu\\Documents\\Programas\\PortableApps\\GeanyPortable\\Programas\\Projeto_de_sistemas_embarcados\\gits\\cansat\\main.cpp"
-    },
-    "name": "altitude",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
     "ID": "c:@time_miliseconds",
     "What": "Variable",
     "defdec": "Def",
@@ -90313,6 +90243,104 @@
       "path": "C:\\Users\\arthu\\Documents\\Programas\\PortableApps\\GeanyPortable\\Programas\\Projeto_de_sistemas_embarcados\\gits\\cansat\\timer-driver.c"
     },
     "name": "timer",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@bmp_280",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "bmp_280",
+    "location": {
+      "column": "8",
+      "line": "20",
+      "path": "C:\\Users\\arthu\\Documents\\Programas\\PortableApps\\GeanyPortable\\Programas\\Projeto_de_sistemas_embarcados\\gits\\cansat\\main.cpp"
+    },
+    "name": "bmp_280",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.cpp@F@vLEDFlashTask#*v#",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void vLEDFlashTask(void *)",
+    "location": {
+      "column": "13",
+      "line": "22",
+      "path": "C:\\Users\\arthu\\Documents\\Programas\\PortableApps\\GeanyPortable\\Programas\\Projeto_de_sistemas_embarcados\\gits\\cansat\\main.cpp"
+    },
+    "name": "vLEDFlashTask",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.cpp@F@sensorReadTask#*v#",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void sensorReadTask(void *)",
+    "location": {
+      "column": "13",
+      "line": "32",
+      "path": "C:\\Users\\arthu\\Documents\\Programas\\PortableApps\\GeanyPortable\\Programas\\Projeto_de_sistemas_embarcados\\gits\\cansat\\main.cpp"
+    },
+    "name": "sensorReadTask",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.cpp@645@F@sensorReadTask#*v#@temperatura",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "temperatura",
+    "location": {
+      "column": "14",
+      "line": "35",
+      "path": "C:\\Users\\arthu\\Documents\\Programas\\PortableApps\\GeanyPortable\\Programas\\Projeto_de_sistemas_embarcados\\gits\\cansat\\main.cpp"
+    },
+    "name": "temperatura",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.cpp@645@F@sensorReadTask#*v#@pressao",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "pressao",
+    "location": {
+      "column": "27",
+      "line": "35",
+      "path": "C:\\Users\\arthu\\Documents\\Programas\\PortableApps\\GeanyPortable\\Programas\\Projeto_de_sistemas_embarcados\\gits\\cansat\\main.cpp"
+    },
+    "name": "pressao",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.cpp@645@F@sensorReadTask#*v#@altitude",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "altitude",
+    "location": {
+      "column": "36",
+      "line": "35",
+      "path": "C:\\Users\\arthu\\Documents\\Programas\\PortableApps\\GeanyPortable\\Programas\\Projeto_de_sistemas_embarcados\\gits\\cansat\\main.cpp"
+    },
+    "name": "altitude",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main#",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "48",
+      "path": "C:\\Users\\arthu\\Documents\\Programas\\PortableApps\\GeanyPortable\\Programas\\Projeto_de_sistemas_embarcados\\gits\\cansat\\main.cpp"
+    },
+    "name": "main",
     "origin": "project_file",
     "scope": null
   },

@@ -76,9 +76,9 @@
         EXTERN MemManage_Handler
         EXTERN BusFault_Handler
         EXTERN UsageFault_Handler
-        EXTERN SVC_Handler
+        EXTERN __exc_svc
         EXTERN DebugMon_Handler
-        EXTERN PendSV_Handler
+        EXTERN __exc_pendsv
         EXTERN __exc_systick
 
         DATA
@@ -99,10 +99,10 @@ __vector_table
         DCD     0
         DCD     0
         DCD     0
-        DCD     SVC_Handler
+        DCD     __exc_svc
         DCD     DebugMon_Handler
         DCD     0
-        DCD     PendSV_Handler
+        DCD     __exc_pendsv
         DCD     __exc_systick
     ; External Interrupts
         DCD     __irq_wwdg           ; Window Watchdog
