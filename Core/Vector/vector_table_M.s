@@ -79,7 +79,7 @@
         EXTERN SVC_Handler
         EXTERN DebugMon_Handler
         EXTERN PendSV_Handler
-        EXTERN SysTick_Handler
+        EXTERN __exc_systick
 
         DATA
 
@@ -103,7 +103,7 @@ __vector_table
         DCD     DebugMon_Handler
         DCD     0
         DCD     PendSV_Handler
-        DCD     SysTick_Handler
+        DCD     __exc_systick
     ; External Interrupts
         DCD     __irq_wwdg           ; Window Watchdog
         DCD     __irq_pvd            ; PVD through EXTI Line detect

@@ -55,7 +55,7 @@
         PUBWEAK SVC_Handler
         PUBWEAK DebugMon_Handler
         PUBWEAK PendSV_Handler
-        PUBWEAK SysTick_Handler
+        PUBWEAK __exc_systick
 
         PUBLIC  __default_handler_Exit
         EXTERN  __exit
@@ -74,7 +74,7 @@ UsageFault_Handler
 SVC_Handler
 DebugMon_Handler
 PendSV_Handler
-SysTick_Handler
+__exc_systick
 Default_Handler
 __default_handler_Exit:
         // Write failure to stdout

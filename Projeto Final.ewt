@@ -2956,6 +2956,9 @@
             <name>$PROJ_DIR$\Wire\HardWire.cpp</name>
         </file>
         <file>
+            <name>$PROJ_DIR$\Wire\I2C.c</name>
+        </file>
+        <file>
             <name>$PROJ_DIR$\Wire\Wire.cpp</name>
         </file>
         <file>

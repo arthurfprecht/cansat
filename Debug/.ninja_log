@@ -1,242 +1,122 @@
 # ninja log v5
-924	1074	6799638206092144	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/i2c_f1.o	3f94a75ed21777ce
-1	180	6793591482838445	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/led-driver.o	5a7e1db454e93874
-345	386	6799638199230496	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/vectortrap_M.o	56288d026a984469
-17	219	6793591483137699	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/gpio-driver.o	f86e26c31e795fe4
-190	402	6793591485072467	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/pwm-driver.o	e53ddb17672cdfd5
-2379	2535	6799638220733743	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/adc-driver.o	a45c6bb8bf092804
-449	607	6793591487136976	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/timer-driver.o	9c40ac1c7337eb5c
-2547	2707	6799638222439186	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/main.o	31413405318f9d2c
-1902	2058	6799638215926611	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Wire/WireBase.o	5f630d4d6703ddee
-1252	1386	6799638209233748	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/gpio.o	5b56eb850b867579
-230	436	6793591485192165	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/adc-driver.o	18fa945d776095e7
-1395	1582	6799638210969103	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/spi.o	9b3b29ac4ba2b47
-509	693	6793591487974712	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/usart-driver.o	d0b8e74471843ec4
-278	469	6793617265774759	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	51f4230036be7613
-2	87	6799638196108837	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/cexit.o	cd9ba772be6ad89d
-18	65	6799638196108837	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/cstartup_M.o	c48b9c2587a363f5
-74	111	6799638196497802	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/cstartup_ropi_M.o	a52abf34f559d0e8
-95	132	6799638196687318	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/cmain.o	c126004673564f79
-290	336	6799638198602167	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/cstartup_rwpi_M.o	cf04699c302e7bf9
-139	176	6799638197205907	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/vector_table_M.o	c7f4cfbdc2cdf19d
-373	407	6799638199469857	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/XXexit.o	93dcf78bf8db8d28
-323	365	6799638198991142	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/vectortrap_M_exit.o	d3584ac61006227a
-184	282	6799638198213209	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/flash.o	b85481bdd3b5afed
-118	313	6799638198263073	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/adc.o	d725df7c01003cfb
-393	552	6799638200896053	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/dma.o	4ea9e3b625bba276
-414	691	6799638202272360	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/dma_f1.o	7f65b94dbe575bd3
-1491	1660	6799638211977202	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/rcc.o	6f7c8b496d503dc7
-750	878	6799638204117448	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/exti_f1.o	a296dd0566e0f48b
-2236	2370	6799638219078212	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/led-driver.o	57f008ae3d13f100
-703	914	6799638204167312	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/exti.o	fbe8f040c2faeb5a
-562	736	6799638202721160	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/adc_f1.o	1366142333ad13f0
-1160	1302	6799638208405972	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/nvic.o	2d77c5a87c20e1ff
-890	1150	6799638206870067	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/i2c.o	362c7650e739cc3
-1592	1746	6799638212844842	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/spi_f1.o	c4d9437ca7fab71d
-1755	1888	6799638214231156	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/sysInit .o	9bc2b7b99c5a121e
-2418	2608	6799638221441846	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/pwm-driver.o	7e3491d0811dcf5a
-2013	2173	6799638217103494	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Wire/HardWire.o	823c38e2ba9a25ec
-2716	2895	6799638224334120	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/usart-driver.o	6eb37dcfb8d12624
-2620	2798	6799638223346758	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/timer-driver.o	3b9ee0679d4d85d9
-2072	2223	6799638217602155	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/gpio-driver.o	b7d026d390cc49b
-1087	1242	6799638207797606	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/gpio_f1.o	83557cd3ee239ed
-1313	1482	6799638210201172	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/rcc_f1.o	71591473ea975467
-2187	2405	6799638219187888	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Wire/Wire.o	1e8b4532a539cbea
-1669	2000	6799638215368108	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/SPI/SPI.o	3dcdff7cf9b73e5
-5	309	6799642451221921	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/systick.o	568b562e62a14656
-19	475	6799642452797711	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/util.o	4ea1197fcf78d10f
-579	767	6799642455779741	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/usart_private.o	a75a30c3cd78f0e9
-484	812	6799642456088912	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/usart.o	dd18b9611af35a0
-778	1002	6799642458133447	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/util_adc.o	d850ccc9dcdabde1
-823	1070	6799642458791680	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/usart_f1.o	d7da347fdcebf704
-1012	1199	6799642460118144	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/timer-driver.o	3b9ee0679d4d85d9
-2	268	6799642711398900	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/timer.o	21594efc8abe1160
-278	493	6799642713622936	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	81bca372cbba4da5
-3	144	6799644720404656	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/main.o	31413405318f9d2c
-153	377	6799644722679406	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	81bca372cbba4da5
-4	35	6799644822682429	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/cstartup_ropi_M.o	a52abf34f559d0e8
-15	55	6799644822772187	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/cmain.o	c126004673564f79
-43	79	6799644823051450	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/cstartup_M.o	c48b9c2587a363f5
-63	99	6799644823240940	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/cexit.o	cd9ba772be6ad89d
-86	119	6799644823500242	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/vectortrap_M_exit.o	d3584ac61006227a
-127	243	6799644824687065	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/flash.o	b85481bdd3b5afed
-106	265	6799644824756889	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/adc.o	d725df7c01003cfb
-253	290	6799644825125888	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/XXexit.o	93dcf78bf8db8d28
-276	312	6799644825345302	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/cstartup_rwpi_M.o	cf04699c302e7bf9
-299	347	6799644825664458	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/vector_table_M.o	c7f4cfbdc2cdf19d
-319	368	6799644825943712	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/Vector/vectortrap_M.o	56288d026a984469
-354	544	6799644827679074	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/exti.o	fbe8f040c2faeb5a
-375	580	6799644827878526	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/adc_f1.o	1366142333ad13f0
-554	675	6799644829005513	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/exti_f1.o	a296dd0566e0f48b
-684	804	6799644830302113	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/dma.o	4ea9e3b625bba276
-591	859	6799644830800739	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/dma_f1.o	7f65b94dbe575bd3
-817	965	6799644831907755	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/nvic.o	2d77c5a87c20e1ff
-870	1039	6799644832655769	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/gpio_f1.o	83557cd3ee239ed
-974	1110	6799644833363868	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/gpio.o	5b56eb850b867579
-1118	1267	6799644834929675	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/i2c_f1.o	3f94a75ed21777ce
-1047	1314	6799644835288733	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/i2c.o	362c7650e739cc3
-1280	1468	6799644836954265	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/spi.o	9b3b29ac4ba2b47
-1326	1503	6799644837014104	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/spi_f1.o	c4d9437ca7fab71d
-1477	1592	6799644838180985	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/systick.o	568b562e62a14656
-1515	1663	6799644838909033	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/rcc.o	6f7c8b496d503dc7
-1601	1751	6799644839776747	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/sysInit .o	9bc2b7b99c5a121e
-1671	1848	6799644840734157	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/rcc_f1.o	71591473ea975467
-1759	1954	6799644841811294	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/usart.o	dd18b9611af35a0
-1857	2046	6799644842718889	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/util_adc.o	d850ccc9dcdabde1
-1963	2101	6799644843287329	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/usart_private.o	a75a30c3cd78f0e9
-2056	2243	6799644844683599	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/usart_f1.o	d7da347fdcebf704
-2113	2395	6799644846199540	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/timer.o	21594efc8abe1160
-2256	2431	6799644846329208	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/util.o	4ea1197fcf78d10f
-2406	2551	6799644847775329	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Wire/HardWire.o	823c38e2ba9a25ec
-2445	2650	6799644848762689	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Wire/Wire.o	1e8b4532a539cbea
-2559	2726	6799644849520683	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Wire/WireBase.o	5f630d4d6703ddee
-2659	2835	6799644850617739	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/adc-driver.o	a45c6bb8bf092804
-2735	2883	6799644851096448	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/gpio-driver.o	b7d026d390cc49b
-2896	3065	6799644852911599	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/pwm-driver.o	7e3491d0811dcf5a
-2849	3170	6799644853919139	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/SPI/SPI.o	3dcdff7cf9b73e5
-3078	3236	6799644854636976	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/led-driver.o	57f008ae3d13f100
-3179	3372	6799644855943500	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/usart-driver.o	6eb37dcfb8d12624
-3246	3425	6799644856511994	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/main.o	31413405318f9d2c
-3382	3514	6799644857409578	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/timer-driver.o	3b9ee0679d4d85d9
-3524	3757	6799644859872974	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	9f97c0760e9bef47
-3524	3757	6799644859872974	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/List/Projeto Final.map	9f97c0760e9bef47
-4	246	6799645334140207	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	81bca372cbba4da5
-3	263	6799645689601374	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/main.o	31413405318f9d2c
-272	487	6799645691795509	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	81bca372cbba4da5
-4	164	6799647841626334	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/rcc.o	6f7c8b496d503dc7
-172	463	6799647844468722	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	81bca372cbba4da5
-2	229	6799650488137820	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	9cf40c02d946e32
-5	266	6799652583559811	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/main.o	31413405318f9d2c
-276	459	6799652585434702	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	9cf40c02d946e32
-2	272	6799659242744251	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/usart_f1.o	d7da347fdcebf704
-281	470	6799659244689054	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	9cf40c02d946e32
-61	629	6802994252269716	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/main.o	31413405318f9d2c
-2	655	6802994252550995	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/usart_f1.o	d7da347fdcebf704
-667	1071	6802994256562804	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	9cf40c02d946e32
-9	534	6802996455399153	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/main.o	31413405318f9d2c
-545	984	6802996460375840	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	9cf40c02d946e32
-28	409	6803042817645311	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/usart_f1.o	d7da347fdcebf704
-6	560	6803042819131292	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/Core/timer.o	21594efc8abe1160
-573	822	6803042821725015	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	9cf40c02d946e32
-3	167	6803044692015120	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/main.o	31413405318f9d2c
-177	396	6803044694238904	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	9cf40c02d946e32
-5	319	6803046467358096	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/timer-driver.o	3b9ee0679d4d85d9
-330	632	6803046470264905	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	9cf40c02d946e32
-3	184	6803047002560797	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Obj/timer-driver.o	3b9ee0679d4d85d9
-194	400	6803047004665409	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/Projeto Final - C++/Debug/Exe/Projeto Final.out	9cf40c02d946e32
-49	129	6803078793060653	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cmain.o	de20386874747ba9
-20	158	6803078793070622	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cexit.o	a92fa06e28eb54cd
-138	208	6803078793830710	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cstartup_ropi_M.o	2351789fb9f75943
-172	244	6803078794180546	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cstartup_M.o	e9fb5dc8db3f3101
-250	294	6803078794680337	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/XXexit.o	89af89215067eb84
-300	354	6803078795340458	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vectortrap_M.o	a9e35c80d7059b4a
-215	742	6803078799095410	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/adc.o	e0f035ab7136e72d
-360	782	6803078799394407	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/flash.o	f8ef5d6c54526ad2
-752	810	6803078799649158	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cstartup_rwpi_M.o	b48061b99cb58a0e
-793	858	6803078800369173	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vector_table_M.o	d8d126b7074f0923
-817	880	6803078800379146	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vectortrap_M_exit.o	916c01c6fff2fb56
-888	1075	6803078802430268	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/dma.o	13217f692062135b
-864	1126	6803078802950056	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/adc_f1.o	48958749bff8a165
-1137	1360	6803078805249971	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/exti_f1.o	e2ba157939812dbb
-1083	1404	6803078805669926	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/exti.o	ddb3badaa8d5f2f3
-1414	1645	6803078808140290	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/i2c_f1.o	c76ce3f7f1d05d4f
-1367	1758	6803078809240079	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/dma_f1.o	cc6bc8ec534776c8
-1769	1929	6803078810969945	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/gpio.o	7092cf778d344e66
-1655	2068	6803078812279895	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/i2c.o	b74ab85cfc028819
-1940	2184	6803078813528983	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/gpio_f1.o	1303bb2b327bb2ae
-2079	2266	6803078814372590	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/nvic.o	33e3456243398da2
-2197	2381	6803078815509548	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/rcc.o	25342cd848aa9aae
-2277	2491	6803078816566728	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/spi_f1.o	6d30ace19a8fabc0
-2392	2638	6803078818068016	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/rcc_f1.o	6e6c18e8089b1a83
-2502	2771	6803078819339756	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/spi.o	973bc7f1bb35c231
-2649	2930	6803078820980541	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/sysInit .o	7dc74cc347fde936
-2782	2959	6803078821030393	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/systick.o	e73da76a9d669ba5
-2941	3206	6803078823743133	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/usart_f1.o	e8f4c8693a3e9b1e
-2968	3255	6803078823972513	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/usart.o	4b904b7ef2d9953e
-3217	3399	6803078825678966	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/usart_private.o	29f0dd5695a436c3
-3412	3625	6803078827968234	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/util.o	5d81dafcc53833c4
-3266	3695	6803078828616499	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/timer.o	2134dc6d4005dcd4
-3635	3877	6803078830446577	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/util_adc.o	572a7346f7d6eef8
-3706	3934	6803078830885409	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/adc-driver.o	a17d9675692d0429
-3945	4129	6803078832971474	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/gpio-driver.o	3abbe7ac89cfb2b7
-4139	4371	6803078835406391	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/HardWire.o	d4a4a7254a2a70d8
-3888	4423	6803078835536015	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/SPI/SPI.o	6b4a1f7814416804
-4431	4649	6803078838164906	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/WireBase.o	6c7bfa0d32b81e14
-4383	4703	6803078838295119	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/Wire.o	b00b324ef114d165
-4713	4942	6803078841103607	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/led-driver.o	faa8750dc76bd25b
-4663	5013	6803078841597420	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/pwm-driver.o	231c20c5fc125ab9
-4953	5182	6803078843485331	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/main.o	e94e377a252250b
-5025	5289	6803078844572438	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/usart-driver.o	516fa5e71f565c4b
-5	233	6803079064829339	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/timer-driver.o	3a048b41f98f657a
-243	494	6803079067342834	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	9ba01a17197f665
-3	42	6803086272521179	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cmain.o	de20386874747ba9
-21	66	6803086272680750	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cstartup_ropi_M.o	2351789fb9f75943
-49	92	6803086273019841	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cstartup_M.o	e9fb5dc8db3f3101
-73	120	6803086273214619	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cexit.o	a92fa06e28eb54cd
-99	475	6803086276705315	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/adc.o	e0f035ab7136e72d
-129	524	6803086277154125	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/flash.o	f8ef5d6c54526ad2
-484	550	6803086277343610	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vector_table_M.o	d8d126b7074f0923
-536	586	6803086277882933	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/XXexit.o	89af89215067eb84
-556	610	6803086278142248	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cstartup_rwpi_M.o	b48061b99cb58a0e
-592	644	6803086278541171	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vectortrap_M.o	a9e35c80d7059b4a
-619	669	6803086278660856	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vectortrap_M_exit.o	916c01c6fff2fb56
-652	908	6803086281094354	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/adc_f1.o	48958749bff8a165
-675	1053	6803086282533219	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/dma_f1.o	cc6bc8ec534776c8
-917	1103	6803086282981997	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/dma.o	13217f692062135b
-1113	1264	6803086284637561	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/exti_f1.o	e2ba157939812dbb
-1063	1310	6803086285026521	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/exti.o	ddb3badaa8d5f2f3
-1320	1470	6803086286713813	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/nvic.o	33e3456243398da2
-1274	1622	6803086288174905	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/i2c.o	b74ab85cfc028819
-1480	1673	6803086288673564	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/gpio_f1.o	1303bb2b327bb2ae
-1684	1833	6803086290349084	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/gpio.o	7092cf778d344e66
-1632	1862	6803086290369040	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/i2c_f1.o	c76ce3f7f1d05d4f
-1843	2030	6803086292283916	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/rcc.o	25342cd848aa9aae
-1871	2077	6803086292692824	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/sysInit .o	7dc74cc347fde936
-2041	2205	6803086294039230	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/systick.o	e73da76a9d669ba5
-2086	2284	6803086294847054	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/spi_f1.o	6d30ace19a8fabc0
-2217	2430	6803086296283234	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/rcc_f1.o	6e6c18e8089b1a83
-2295	2508	6803086297051168	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/spi.o	973bc7f1bb35c231
-2439	2631	6803086298277884	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/usart_private.o	29f0dd5695a436c3
-2519	2780	6803086299783282	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/usart_f1.o	e8f4c8693a3e9b1e
-2641	2870	6803086300680885	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/util_adc.o	572a7346f7d6eef8
-2791	3042	6803086302416892	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/usart.o	4b904b7ef2d9953e
-3054	3244	6803086304449819	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/util.o	5d81dafcc53833c4
-2881	3295	6803086304759007	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/timer.o	2134dc6d4005dcd4
-3256	3478	6803086306768959	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/gpio-driver.o	3abbe7ac89cfb2b7
-3307	3526	6803086307133642	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/HardWire.o	d4a4a7254a2a70d8
-3490	3760	6803086309584457	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/Wire.o	b00b324ef114d165
-3770	3975	6803086311745492	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/WireBase.o	6c7bfa0d32b81e14
-3537	4035	6803086312294389	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/SPI/SPI.o	6b4a1f7814416804
-3986	4208	6803086314075259	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/adc-driver.o	a17d9675692d0429
-4045	4299	6803086314992800	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/pwm-driver.o	231c20c5fc125ab9
-4311	4484	6803086316852964	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/led-driver.o	faa8750dc76bd25b
-4220	4510	6803086316902828	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/usart-driver.o	516fa5e71f565c4b
-4519	4756	6803086319540908	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/timer-driver.o	3a048b41f98f657a
-4493	4769	6803086319580792	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/main.o	e94e377a252250b
-4782	5045	6803086322378029	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	9ba01a17197f665
-16	220	6803095897069822	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/pwm-driver.o	231c20c5fc125ab9
-2	395	6803095898835193	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/SPI/SPI.o	6b4a1f7814416804
-24	257	6803097832639020	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/pwm-driver.o	231c20c5fc125ab9
-4	425	6803097834274658	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/SPI/SPI.o	6b4a1f7814416804
-267	473	6803097834793272	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/main.o	e94e377a252250b
-485	735	6803097837346447	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	9ba01a17197f665
-5	432	6803101361615706	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/sysInit .o	7dc74cc347fde936
-21	640	6803101363813095	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/main.o	e94e377a252250b
-651	922	6803101366505793	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	9ba01a17197f665
-3	367	6803105461924290	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/main.o	e94e377a252250b
-376	597	6803105464168273	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	9ba01a17197f665
-3	212	6803107344968759	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/exti.o	ddb3badaa8d5f2f3
-17	236	6803107344998636	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/adc_f1.o	48958749bff8a165
-245	406	6803107346923602	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/i2c_f1.o	c76ce3f7f1d05d4f
-222	490	6803107347761336	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/dma_f1.o	cc6bc8ec534776c8
-417	576	6803107348639000	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/nvic.o	33e3456243398da2
-585	762	6803107350499157	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/rcc.o	25342cd848aa9aae
-681	898	6803107351840733	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/spi.o	973bc7f1bb35c231
-772	984	6803107352683605	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/util.o	5d81dafcc53833c4
-907	1146	6803107354199551	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/usart.o	4b904b7ef2d9953e
-21	431	6803109164636864	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/util_adc.o	572a7346f7d6eef8
-297	499	6803109165344977	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/adc-driver.o	a17d9675692d0429
-443	682	6803109167180056	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/main.o	e94e377a252250b
-4	198	6803110059354792	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/i2c_f1.o	c76ce3f7f1d05d4f
-20	290	6803110060272334	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/i2c.o	b74ab85cfc028819
-300	551	6803110062740061	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	9ba01a17197f665
+1085	1221	6803131834115815	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/nvic.o	33e3456243398da2
+119	436	6803131826291317	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/adc.o	e0f035ab7136e72d
+95	136	6803131823352075	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/XXexit.o	89af89215067eb84
+18	62	6803131822554196	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cstartup_M.o	e9fb5dc8db3f3101
+69	113	6803131823112718	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cstartup_ropi_M.o	2351789fb9f75943
+770	1073	6803131832639752	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/dma_f1.o	cc6bc8ec534776c8
+2206	2389	6803131845854593	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/util.o	5d81dafcc53833c4
+483	527	6803131827278688	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vector_table_M.o	d8d126b7074f0923
+2	41	6803131822464439	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cexit.o	a92fa06e28eb54cd
+861	1032	6803131832280727	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/adc_f1.o	48958749bff8a165
+583	850	6803131830420576	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/exti.o	ddb3badaa8d5f2f3
+48	88	6803131822843438	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cmain.o	de20386874747ba9
+504	552	6803131827478159	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vectortrap_M.o	a9e35c80d7059b4a
+143	474	6803131826540667	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/flash.o	f8ef5d6c54526ad2
+446	496	6803131826770080	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cstartup_rwpi_M.o	b48061b99cb58a0e
+534	576	6803131827767384	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vectortrap_M_exit.o	916c01c6fff2fb56
+558	761	6803131829547771	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/dma.o	13217f692062135b
+1044	1183	6803131833796699	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/exti_f1.o	e2ba157939812dbb
+1376	1575	6803131837696256	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/i2c_f1.o	c76ce3f7f1d05d4f
+1233	1366	6803131835601856	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/gpio.o	7092cf778d344e66
+1194	1472	6803131836678974	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/i2c.o	b74ab85cfc028819
+1480	1661	6803131838553940	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/gpio_f1.o	1303bb2b327bb2ae
+1745	1887	6803131840832971	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/rcc.o	25342cd848aa9aae
+1671	1840	6803131840324338	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/spi_f1.o	6d30ace19a8fabc0
+1851	2020	6803131842145208	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/rcc_f1.o	6e6c18e8089b1a83
+1898	2066	6803131842574063	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/spi.o	973bc7f1bb35c231
+2030	2195	6803131843910509	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/sysInit .o	7dc74cc347fde936
+3	295	6803142869538540	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/systick.o	e73da76a9d669ba5
+2523	2721	6803131849149141	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/usart_f1.o	e8f4c8693a3e9b1e
+2292	2512	6803131847054732	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/usart.o	4b904b7ef2d9953e
+2398	2555	6803131847443703	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/usart_private.o	29f0dd5695a436c3
+2567	2865	6803131850575334	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/timer.o	2134dc6d4005dcd4
+2077	2282	6803131844758218	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/util_adc.o	572a7346f7d6eef8
+2877	3054	6803131852490205	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/adc-driver.o	a17d9675692d0429
+2916	3094	6803131852679706	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/gpio-driver.o	3abbe7ac89cfb2b7
+2731	2904	6803131850854574	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/HardWire.o	d4a4a7254a2a70d8
+28	613	6803143509848680	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/SPI/SPI.o	6b4a1f7814416804
+3106	3293	6803131854873826	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/WireBase.o	6c7bfa0d32b81e14
+3305	3531	6803131857242599	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/Wire.o	b00b324ef114d165
+3776	3936	6803131861273209	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/led-driver.o	faa8750dc76bd25b
+563	809	6803143511893499	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/pwm-driver.o	231c20c5fc125ab9
+267	552	6803143509250294	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/main.o	e94e377a252250b
+3541	3767	6803131859606280	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/usart-driver.o	516fa5e71f565c4b
+974	1291	6803138988232795	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/timer-driver.o	3a048b41f98f657a
+0	185	6803144208410825	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/I2C.o	3a2bd6f07c846a0b
+3	284	6803144692576956	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/I2C.o	3a2bd6f07c846a0b
+29	503	6803144694738664	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/SPI/SPI.o	6b4a1f7814416804
+294	554	6803144695097688	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/main.o	e94e377a252250b
+514	785	6803144697554200	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/pwm-driver.o	231c20c5fc125ab9
+25	410	6803146706551083	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/systick.o	e73da76a9d669ba5
+419	698	6803146709453612	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/sysInit .o	7dc74cc347fde936
+4	815	6803146710560636	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/i2c.o	b74ab85cfc028819
+826	1316	6803146714849175	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/I2C.o	3a2bd6f07c846a0b
+708	1534	6803146717332922	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/SPI/SPI.o	6b4a1f7814416804
+1328	1802	6803146720283729	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/main.o	e94e377a252250b
+1546	1921	6803146721353851	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/timer-driver.o	3a048b41f98f657a
+1813	2156	6803146724033150	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/pwm-driver.o	231c20c5fc125ab9
+2165	2525	6803146727580793	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	764ea5c0e5e38d75
+4	436	6803149886572016	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/main.o	e94e377a252250b
+445	813	6803149890172588	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	764ea5c0e5e38d75
+25	64	6803160776056835	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vectortrap_M.o	a9e35c80d7059b4a
+5	86	6803160776126652	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vectortrap_M_exit.o	916c01c6fff2fb56
+3	35	6803160858575386	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vector_table_M.o	d8d126b7074f0923
+42	289	6803160860939080	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	764ea5c0e5e38d75
+5	982	6803162449936064	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/Wire.o	b00b324ef114d165
+992	1553	6803162455501427	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	764ea5c0e5e38d75
+3	220	6803162963943595	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/main.o	e94e377a252250b
+230	470	6803162966357517	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	764ea5c0e5e38d75
+7	451	6803170623281382	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/Wire.o	b00b324ef114d165
+460	856	6803170627231097	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	764ea5c0e5e38d75
+9	495	6803179244137403	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/Wire.o	b00b324ef114d165
+28	663	6803179245663325	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/main.o	e94e377a252250b
+674	971	6803179248824862	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	764ea5c0e5e38d75
+3	237	6803181229528510	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/main.o	e94e377a252250b
+247	489	6803181231961993	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	764ea5c0e5e38d75
+3	42	6803240597476213	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cexit.o	a92fa06e28eb54cd
+17	68	6803240597605877	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cmain.o	de20386874747ba9
+50	92	6803240597934987	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cstartup_ropi_M.o	2351789fb9f75943
+76	114	6803240598164379	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cstartup_M.o	e9fb5dc8db3f3101
+99	138	6803240598363841	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vectortrap_M.o	a9e35c80d7059b4a
+146	178	6803240598832592	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/XXexit.o	89af89215067eb84
+188	223	6803240599281387	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vectortrap_M_exit.o	916c01c6fff2fb56
+121	529	6803240602253437	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/adc.o	e0f035ab7136e72d
+231	568	6803240602462883	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/flash.o	f8ef5d6c54526ad2
+540	595	6803240602782037	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/vector_table_M.o	d8d126b7074f0923
+579	621	6803240603180960	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/Vector/cstartup_rwpi_M.o	b48061b99cb58a0e
+604	765	6803240604597174	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/dma.o	13217f692062135b
+627	844	6803240605414996	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/exti.o	ddb3badaa8d5f2f3
+775	993	6803240606868154	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/adc_f1.o	48958749bff8a165
+1005	1148	6803240608443949	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/exti_f1.o	e2ba157939812dbb
+854	1189	6803240608653360	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/dma_f1.o	cc6bc8ec534776c8
+1200	1359	6803240610568248	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/gpio_f1.o	1303bb2b327bb2ae
+1159	1487	6803240611784402	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/i2c.o	b74ab85cfc028819
+1370	1529	6803240612183339	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/gpio.o	7092cf778d344e66
+1499	1656	6803240613534859	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/nvic.o	33e3456243398da2
+1543	1748	6803240614462371	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/i2c_f1.o	c76ce3f7f1d05d4f
+1667	1815	6803240615100668	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/systick.o	e73da76a9d669ba5
+1756	1924	6803240616197735	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/spi_f1.o	6d30ace19a8fabc0
+1826	1974	6803240616686426	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/rcc.o	25342cd848aa9aae
+1936	2118	6803240618142553	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/rcc_f1.o	6e6c18e8089b1a83
+1985	2161	6803240618561416	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/spi.o	973bc7f1bb35c231
+2130	2308	6803240620007556	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/sysInit .o	7dc74cc347fde936
+2173	2386	6803240620805413	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/usart.o	4b904b7ef2d9953e
+2318	2486	6803240621847723	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/usart_private.o	29f0dd5695a436c3
+2394	2631	6803240623279010	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/util_adc.o	572a7346f7d6eef8
+2496	2696	6803240623887378	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/usart_f1.o	e8f4c8693a3e9b1e
+2642	2824	6803240625203968	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/util.o	5d81dafcc53833c4
+2836	3006	6803240627029117	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/adc-driver.o	a17d9675692d0429
+2708	3049	6803240627158750	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Core/timer.o	2134dc6d4005dcd4
+3060	3239	6803240629318107	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/I2C.o	3a2bd6f07c846a0b
+3018	3414	6803240631073413	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/SPI/SPI.o	6b4a1f7814416804
+3251	3478	6803240631741632	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/Wire.o	b00b324ef114d165
+3426	3630	6803240633277536	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/WireBase.o	6c7bfa0d32b81e14
+3492	3675	6803240633536824	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/Wire/HardWire.o	d4a4a7254a2a70d8
+3643	3834	6803240635292135	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/timer-driver.o	3a048b41f98f657a
+3687	3955	6803240636528827	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/main.o	e94e377a252250b
+3844	4014	6803240637107271	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/gpio-driver.o	3abbe7ac89cfb2b7
+3968	4139	6803240638369038	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/led-driver.o	faa8750dc76bd25b
+4026	4257	6803240639535943	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/pwm-driver.o	231c20c5fc125ab9
+4150	4335	6803240640323811	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Obj/usart-driver.o	516fa5e71f565c4b
+4344	4594	6803240642807161	C:/Users/arthu/Documents/Programas/PortableApps/GeanyPortable/Programas/Projeto_de_sistemas_embarcados/gits/cansat/Debug/Exe/Projeto Final.out	764ea5c0e5e38d75

@@ -18,6 +18,7 @@ void systemInit(void)
   	setup_flash();
 	setup_clocks();
     setup_nvic();
+	systick_init(SYSTICK_RELOAD_VAL);
 }
 
 static void setup_flash(void) {

@@ -118,6 +118,32 @@ uint32_t millis()
   return time_miliseconds; 
 }
 
+void delay(uint32_t delay_desejado)
+{
+	static uint32_t tempo_entrada;
+	tempo_entrada = millis();
+	while(millis()-tempo_entrada<delay_desejado);
+}
+
+uint32 micros(void) {
+    uint32 ms;
+    uint32 cycle_cnt;
+
+    do {
+        ms = millis();
+        cycle_cnt = systick_get_count();
+        asm volatile("nop"); //allow interrupt to fire
+        asm volatile("nop");
+    } while (ms != millis());
+
+#define US_PER_MS               1000
+    /* SYSTICK_RELOAD_VAL is 1 less than the number of cycles it
+     * actually takes to complete a SysTick reload */
+    return ((ms * US_PER_MS) +
+            (SYSTICK_RELOAD_VAL + 1 - cycle_cnt) / CYCLES_PER_MICROSECOND);
+#undef US_PER_MS
+}
+
 timer_dev* get_timer_struct(uint8_t timer_num)
 {
 	timer_dev *timer = NULL;

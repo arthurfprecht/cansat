@@ -32,6 +32,10 @@
 
 #include "systick.h"
 
+#ifdef __cplusplus
+extern "C" {
+#endif
+
 volatile uint32 systick_uptime_millis;
 static void (*systick_user_callback)(void);
 
@@ -86,3 +90,7 @@ void __exc_systick(void) {
         systick_user_callback();
     }
 }
+
+#ifdef __cplusplus
+}
+#endif

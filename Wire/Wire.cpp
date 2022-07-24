@@ -59,8 +59,12 @@ void TwoWire::set_scl(bool state) {
     //Allow for clock stretching - dangerous currently
     if (state == HIGH) {
 	  	uint8_t valor = 0;
-		gpio_read(scl_num_pin, &valor);
-        while(valor == 0);
+        while(valor == 0)
+		{
+		  gpio_read(scl_num_pin, &valor);
+		  scl_num_pin;
+		  valor;
+		}
     }
 }
 

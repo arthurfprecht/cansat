@@ -55,7 +55,7 @@
         PUBWEAK SVC_Handler
         PUBWEAK DebugMon_Handler
         PUBWEAK PendSV_Handler
-        PUBWEAK SysTick_Handler
+        PUBWEAK __exc_systick
 
         SECTION .text:CODE:REORDER:NOROOT(1)
           CFI Block cfiBlock0 Using cfiCommon0
@@ -70,7 +70,7 @@ UsageFault_Handler
 SVC_Handler
 DebugMon_Handler
 PendSV_Handler
-SysTick_Handler
+__exc_systick
 Default_Handler
 __default_handler
         CALL_GRAPH_ROOT __default_handler, "interrupt"

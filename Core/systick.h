@@ -38,6 +38,9 @@ extern "C"{
 
 #include "libmaple_types.h"
 #include "util.h"
+  
+#define CYCLES_PER_MICROSECOND    72
+#define SYSTICK_RELOAD_VAL     (F_CPU/1000) - 1 /* takes a cycle to reload */
 
 /** SysTick register map type */
 typedef struct systick_reg_map {
