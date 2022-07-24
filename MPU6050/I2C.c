@@ -2,7 +2,6 @@
 #include <stdbool.h>
 
 #include "I2C.h"
-#include "../timer-driver.h"
 
 const uint16_t I2C_TIMEOUT = 1000; // Used to check for errors in I2C communication
 uint8_t IMUAddress;

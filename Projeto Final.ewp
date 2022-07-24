@@ -2086,6 +2086,12 @@
         </settings>
     </configuration>
     <group>
+        <name>BMP280</name>
+        <file>
+            <name>$PROJ_DIR$\BMP280\BMP280-library.cpp</name>
+        </file>
+    </group>
+    <group>
         <name>Core</name>
         <group>
             <name>Vector</name>
@@ -2191,6 +2197,15 @@
         </file>
     </group>
     <group>
+        <name>MPU6050</name>
+        <file>
+            <name>$PROJ_DIR$\MPU6050\I2C.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\MPU6050\MPU6050.c</name>
+        </file>
+    </group>
+    <group>
         <name>SPI</name>
         <file>
             <name>$PROJ_DIR$\SPI\SPI.cpp</name>
@@ -2200,9 +2215,6 @@
         <name>Wire</name>
         <file>
             <name>$PROJ_DIR$\Wire\HardWire.cpp</name>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\Wire\I2C.c</name>
         </file>
         <file>
             <name>$PROJ_DIR$\Wire\Wire.cpp</name>

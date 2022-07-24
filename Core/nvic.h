@@ -150,6 +150,24 @@ static inline void nvic_irq_disable(nvic_irq_num irq_num) {
  */
 static inline void nvic_irq_disable_all(void);
 
+static inline __always_inline void interrupts() {
+    nvic_globalirq_enable();
+}
+
+/**
+ * Disable interrupts.
+ *
+ * After calling this function, all user-programmable interrupts will
+ * be disabled.  You can call this function before a timing-critical
+ * section of code, then call interrupts() to re-enable interrupt
+ * handling.
+ *
+ * @see interrupts()
+ */
+static inline __always_inline void noInterrupts() {
+    nvic_globalirq_disable();
+}
+
 #ifdef __cplusplus
 }
 #endif

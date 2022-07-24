@@ -1,45 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
     <fileVersion>5</fileVersion>
-    <fileChecksum>281895403</fileChecksum>
+    <fileChecksum>3393906096</fileChecksum>
     <configuration>
         <name>Debug</name>
         <outputs>
-            <file>$PROJ_DIR$\main.cpp</file>
-            <file>$PROJ_DIR$\pwm-driver.c</file>
-            <file>$PROJ_DIR$\Core\rcc.c</file>
-            <file>$PROJ_DIR$\Core\usart_private.c</file>
-            <file>$PROJ_DIR$\Core\util_adc.c</file>
-            <file>$PROJ_DIR$\Wire\I2C.c</file>
-            <file>$PROJ_DIR$\Wire\WireBase.cpp</file>
-            <file>$PROJ_DIR$\Core\rcc_f1.c</file>
-            <file>$PROJ_DIR$\Core\spi.c</file>
-            <file>$PROJ_DIR$\Core\util.c</file>
-            <file>$PROJ_DIR$\Core\adc_f1.c</file>
-            <file>$PROJ_DIR$\Core\dma_f1.c</file>
-            <file>$PROJ_DIR$\Core\exti.c</file>
-            <file>$PROJ_DIR$\Core\i2c.c</file>
-            <file>$PROJ_DIR$\Core\gpio_f1.c</file>
-            <file>$PROJ_DIR$\Wire\Wire.cpp</file>
-            <file>$PROJ_DIR$\Core\exti_f1.c</file>
-            <file>$PROJ_DIR$\Core\i2c_f1.c</file>
-            <file>$PROJ_DIR$\Core\adc.c</file>
-            <file>$PROJ_DIR$\Core\gpio.c</file>
-            <file>$PROJ_DIR$\Core\timer.c</file>
-            <file>$PROJ_DIR$\Core\usart.c</file>
-            <file>$PROJ_DIR$\Wire\HardWire.cpp</file>
+            <file>$PROJ_DIR$\BMP280\BMP280-library.cpp</file>
             <file>$PROJ_DIR$\adc-driver.c</file>
-            <file>$PROJ_DIR$\gpio-driver.c</file>
-            <file>$PROJ_DIR$\Core\spi_f1.c</file>
-            <file>$PROJ_DIR$\Core\systick.c</file>
-            <file>$PROJ_DIR$\Core\sysInit .c</file>
-            <file>$PROJ_DIR$\Core\usart_f1.c</file>
-            <file>$PROJ_DIR$\led-driver.c</file>
-            <file>$PROJ_DIR$\Core\dma.c</file>
-            <file>$PROJ_DIR$\Core\flash.c</file>
-            <file>$PROJ_DIR$\Core\nvic.c</file>
+            <file>$PROJ_DIR$\main.cpp</file>
             <file>$PROJ_DIR$\timer-driver.c</file>
+            <file>$PROJ_DIR$\pwm-driver.c</file>
+            <file>$PROJ_DIR$\gpio-driver.c</file>
             <file>$PROJ_DIR$\usart-driver.c</file>
+            <file>$PROJ_DIR$\led-driver.c</file>
         </outputs>
         <forcedrebuild>
             <name>[REBUILD_ALL]</name>
