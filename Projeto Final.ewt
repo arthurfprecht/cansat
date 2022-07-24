@@ -2951,6 +2951,39 @@
         </file>
     </group>
     <group>
+        <name>FreeRTOS</name>
+        <group>
+            <name>utility</name>
+            <file>
+                <name>$PROJ_DIR$\FreeRTOS\utility\croutine.c</name>
+            </file>
+            <file>
+                <name>$PROJ_DIR$\FreeRTOS\utility\heap_2.c</name>
+            </file>
+            <file>
+                <name>$PROJ_DIR$\FreeRTOS\utility\list.c</name>
+            </file>
+            <file>
+                <name>$PROJ_DIR$\FreeRTOS\utility\port.c</name>
+            </file>
+            <file>
+                <name>$PROJ_DIR$\FreeRTOS\utility\queue.c</name>
+            </file>
+            <file>
+                <name>$PROJ_DIR$\FreeRTOS\utility\tasks.c</name>
+            </file>
+            <file>
+                <name>$PROJ_DIR$\FreeRTOS\utility\timers.c</name>
+            </file>
+            <configuration>
+                <name>Debug</name>
+            </configuration>
+        </group>
+        <file>
+            <name>$PROJ_DIR$\FreeRTOS\MapleFreeRTOS.cpp</name>
+        </file>
+    </group>
+    <group>
         <name>MPU6050</name>
         <file>
             <name>$PROJ_DIR$\MPU6050\I2C.c</name>

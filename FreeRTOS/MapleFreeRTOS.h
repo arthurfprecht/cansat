@@ -27,8 +27,6 @@
 #ifndef __MAPLE_FREERTOS_H__
 #define __MAPLE_FREERTOS_H__
 
-#include <wirish.h>
-
 extern "C" {
 #define GCC_ARMCM3
 #include "utility/FreeRTOS.h"

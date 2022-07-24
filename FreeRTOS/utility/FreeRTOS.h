@@ -75,6 +75,8 @@
 /* Definitions specific to the port being used. */
 #include "portable.h"
 
+#include "..\..\Core\sysTick.h"
+#include "..\..\blue_pill_info.h"
 
 /* Defines the prototype to which the application task hook function must
 conform. */

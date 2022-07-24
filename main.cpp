@@ -10,6 +10,8 @@
 #include "adc-driver.h"
 #include "usart-driver.h"
 
+#include "FreeRTOS/MapleFreeRTOS.h"
+
 #include "SPI/SPI.h"
 #include "Wire/Wire.h"
 #include "MPU6050/MPU6050.h"

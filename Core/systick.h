@@ -111,6 +111,8 @@ static inline uint32 systick_check_underflow(void) {
     return SYSTICK_BASE->CSR & SYSTICK_CSR_COUNTFLAG;
 }
 
+void systick_attach_callback(void (*callback)(void));
+
 #ifdef __cplusplus
 } // extern "C"
 #endif
