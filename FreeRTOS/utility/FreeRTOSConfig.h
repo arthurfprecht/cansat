@@ -66,18 +66,22 @@
  * See http://www.freertos.org/a00110.html.
  *----------------------------------------------------------*/
 
-#define configUSE_PREEMPTION		1
-#define configUSE_IDLE_HOOK			0
-#define configUSE_TICK_HOOK			0
-#define configCPU_CLOCK_HZ			( ( unsigned long ) F_CPU )
-#define configTICK_RATE_HZ			( ( portTickType ) 1000 )
-#define configMAX_PRIORITIES		( ( unsigned portBASE_TYPE ) 5 )
-#define configMINIMAL_STACK_SIZE	( ( unsigned short ) 120 )
-#define configTOTAL_HEAP_SIZE		( ( size_t ) ( 8 * 1024 ) )
-#define configMAX_TASK_NAME_LEN		( 16 )
-#define configUSE_TRACE_FACILITY	1
-#define configUSE_16_BIT_TICKS		0
-#define configIDLE_SHOULD_YIELD		1
+#define configUSE_PREEMPTION			1
+#define configUSE_IDLE_HOOK				0
+#define configUSE_TICK_HOOK				0
+#define configCPU_CLOCK_HZ				( ( unsigned long ) F_CPU )
+#define configTICK_RATE_HZ				( ( portTickType ) 1000 )
+#define configMAX_PRIORITIES			(( unsigned portBASE_TYPE ) 5 )
+#define configMINIMAL_STACK_SIZE		( ( unsigned short ) 120 )
+#define configTOTAL_HEAP_SIZE			( ( size_t ) ( 12 * 1024 ) )
+#define configMAX_TASK_NAME_LEN			( 16 )
+#define configUSE_TRACE_FACILITY		1
+#define configUSE_16_BIT_TICKS			0
+#define configIDLE_SHOULD_YIELD			1
+#define configUSE_TIMERS 				1
+#define configTIMER_TASK_PRIORITY		5
+#define configTIMER_QUEUE_LENGTH 		2
+#define configTIMER_TASK_STACK_DEPTH 	120
 
 /* Co-routine definitions. */
 #define configUSE_CO_ROUTINES 		0

@@ -36,11 +36,6 @@
 #include "../Core/timer.h"
 #include "../Core/util.h"
 #include "../Core/rcc.h"
-/*
-#include "../Core/wirish.h"
-#include "../Core/boards.h"
-*/
-//#include "HardwareSerial.h"
 
 #define ICE_P(x) _Generic((1? (void *) ((x)*0) : (int *) 0), int*: 1, void*: 0)
 

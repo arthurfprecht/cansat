@@ -136,12 +136,27 @@ uint32 micros(void) {
         asm volatile("nop");
     } while (ms != millis());
 
+
 #define US_PER_MS               1000
     /* SYSTICK_RELOAD_VAL is 1 less than the number of cycles it
      * actually takes to complete a SysTick reload */
     return ((ms * US_PER_MS) +
             (SYSTICK_RELOAD_VAL + 1 - cycle_cnt) / CYCLES_PER_MICROSECOND);
 #undef US_PER_MS
+}
+
+void delayMicroseconds(uint32 us)
+{
+    us *= STM32_DELAY_US_MULT;
+
+    /* fudge for function call overhead  */
+    us--;
+    asm volatile("   mov r0, %[us]          \n"
+                 "1: subs r0, #1            \n"
+                 "   bhi 1b                 \n"
+                 :
+                 : [us] "r" (us)
+                 : "r0");
 }
 
 timer_dev* get_timer_struct(uint8_t timer_num)

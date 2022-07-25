@@ -2219,7 +2219,7 @@
                 <name>$PROJ_DIR$\FreeRTOS\utility\tasks.c</name>
             </file>
             <file>
-                <name>$PROJ_DIR$\FreeRTOS\utility\timers.c</name>
+                <name>$PROJ_DIR$\FreeRTOS\utility\timers_rtos.c</name>
             </file>
             <configuration>
                 <name>Debug</name>
@@ -2475,6 +2475,12 @@
         </file>
         <file>
             <name>$PROJ_DIR$\MPU6050\MPU6050.c</name>
+        </file>
+    </group>
+    <group>
+        <name>RF24</name>
+        <file>
+            <name>$PROJ_DIR$\RF24\RF24.cpp</name>
         </file>
     </group>
     <group>

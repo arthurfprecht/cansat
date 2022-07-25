@@ -61,6 +61,15 @@ if ((sizeof(acc)/sizeof(int16_t)==3) && (sizeof(acc_conv)/sizeof(double)==3) &&
 	/*}*/
 }
 
+
+void exibeMPU(double acc_c[], double gyro_c[])
+{
+  	  printf("acc [x,y,z] = [%f, %f, %f] m/s^2 \n", acc_c[0], acc_c[1], acc_c[2]);
+	  while(!buffer_empty(1, 'w'));
+	  printf("gyro [x,y,z] = [%f, %f, %f] rad/s \n", gyro_c[0], gyro_c[1], gyro_c[2]);
+	  while(!buffer_empty(1, 'w'));
+}
+
 /*uint8_t MPU_addr = 0x68;*/
 void testaMPU(uint8_t MPU_addr)
 {
@@ -69,9 +78,6 @@ void testaMPU(uint8_t MPU_addr)
 		
 	  recebeDados(MPU_addr, acc, gyro);
 	  converteDados(acc, gyro, acc_c, gyro_c);
-
-	  printf("acc [x,y,z] = [%f, %f, %f] m/s^2 \n", acc_c[0], acc_c[1], acc_c[2]);
-	  while(!buffer_empty(1, 'w'));
-	  printf("gyro [x,y,z] = [%f, %f, %f] rad/s \n", gyro_c[0], gyro_c[1], gyro_c[2]);
-	  while(!buffer_empty(1, 'w'));
+		
+	  exibeMPU(acc_c, gyro_c);
 }

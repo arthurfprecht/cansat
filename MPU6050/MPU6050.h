@@ -14,4 +14,6 @@ bool recebeDados(int MPU,  int16_t acc[], int16_t gyro[]);
 void converteDados(const int16_t acc[], const int16_t gyro[], 
 				   double acc_conv[], double gyro_conv[] );
 
+void exibeMPU(double acc_c[], double gyro_c[]);
+
 void testaMPU(uint8_t MPU_addr);

@@ -1,48 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
     <fileVersion>5</fileVersion>
-    <fileChecksum>3384438843</fileChecksum>
+    <fileChecksum>3698455704</fileChecksum>
     <configuration>
         <name>Debug</name>
         <outputs>
-            <file>$PROJ_DIR$\Core\Vector\vectortrap_M.s</file>
             <file>$PROJ_DIR$\usart-driver.c</file>
-            <file>$PROJ_DIR$\Core\Vector\cstartup_ropi_M.s</file>
-            <file>$PROJ_DIR$\Core\Vector\vector_table_M.s</file>
-            <file>$PROJ_DIR$\Core\Vector\vectortrap_M_exit.s</file>
-            <file>$PROJ_DIR$\Core\Vector\cstartup_rwpi_M.s</file>
-            <file>$PROJ_DIR$\Core\Vector\cexit.s</file>
-            <file>$PROJ_DIR$\Core\Vector\cstartup_M.s</file>
-            <file>$PROJ_DIR$\Core\Vector\cmain.s</file>
             <file>$PROJ_DIR$\main.cpp</file>
             <file>$PROJ_DIR$\pwm-driver.c</file>
-            <file>$PROJ_DIR$\Core\dma_f1.c</file>
             <file>$PROJ_DIR$\timer-driver.c</file>
-            <file>$PROJ_DIR$\Core\sysInit .c</file>
-            <file>$PROJ_DIR$\Core\flash.c</file>
-            <file>$PROJ_DIR$\Core\util.c</file>
-            <file>$PROJ_DIR$\Core\i2c_f1.c</file>
-            <file>$PROJ_DIR$\Core\systick.c</file>
-            <file>$PROJ_DIR$\Core\gpio.c</file>
-            <file>$PROJ_DIR$\Core\Vector\XXexit.s</file>
-            <file>$PROJ_DIR$\Core\i2c.c</file>
-            <file>$PROJ_DIR$\Core\exti_f1.c</file>
-            <file>$PROJ_DIR$\Core\rcc_f1.c</file>
-            <file>$PROJ_DIR$\Core\adc_f1.c</file>
-            <file>$PROJ_DIR$\Core\timer.c</file>
-            <file>$PROJ_DIR$\Core\usart.c</file>
-            <file>$PROJ_DIR$\Core\util_adc.c</file>
-            <file>$PROJ_DIR$\Core\usart_f1.c</file>
-            <file>$PROJ_DIR$\Core\usart_private.c</file>
-            <file>$PROJ_DIR$\Core\gpio_f1.c</file>
-            <file>$PROJ_DIR$\Core\nvic.c</file>
-            <file>$PROJ_DIR$\Core\spi.c</file>
-            <file>$PROJ_DIR$\Core\spi_f1.c</file>
-            <file>$PROJ_DIR$\Core\exti.c</file>
-            <file>$PROJ_DIR$\Core\adc.c</file>
-            <file>$PROJ_DIR$\Core\rcc.c</file>
             <file>$PROJ_DIR$\led-driver.c</file>
-            <file>$PROJ_DIR$\Core\dma.c</file>
             <file>$PROJ_DIR$\adc-driver.c</file>
             <file>$PROJ_DIR$\gpio-driver.c</file>
         </outputs>
