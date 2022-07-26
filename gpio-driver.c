@@ -7,6 +7,8 @@ uint8_t pin_map[MAX_NUM]; 	/* Vetor para mapear os pinos e os números
 						  
 bool port_init[] = {0,0,0}; 
 
+bool firstGPIOinit(void);
+
 uint8_t  gpio_config(uint8_t gpio_num, uint8_t pin, gpio_pin_mode dir)
 {
   	uint8_t sucess=0;
@@ -15,11 +17,21 @@ uint8_t  gpio_config(uint8_t gpio_num, uint8_t pin, gpio_pin_mode dir)
 		pin_map[gpio_num]=pin;
 
 		struct bit_and_port num_bit_porta= getPort(pin_map[gpio_num]);
+		
+		if(firstGPIOinit() == 1)
+		{
+			afio_init();
+			afio_cfg_debug_ports(AFIO_DEBUG_SW_ONLY); /* Habilita os pinos do JTAG*/
+     		afio_remap(AFIO_REMAP_USART3_PARTIAL); // remap Serial2(USART3)PB10/PB11
+			afio_remap(AFIO_REMAP_TIM2_FULL); // better PWM compatibility
+			afio_remap(AFIO_REMAP_TIM3_PARTIAL);// better PWM compatibility
+	  	}
 				
 		if(port_init[num_bit_porta.indice_porta]!=1) 
 		{ /* Inicializa porta apenas se ela ainda não foi inicializada */
+
 			gpio_init(num_bit_porta.dev_ptr);
-			port_init[num_bit_porta.indice_porta]=1;
+			port_init[num_bit_porta.indice_porta]=1;   
 		}
 		if((num_bit_porta.dev_ptr!=GPIOC) || (dir!=GPIO_OUTPUT_PP))
 		{ /* Pinos da porta GPIOC só podem receber corrente (só open drain) */
@@ -105,6 +117,16 @@ uint8_t gpio_read(uint8_t gpio_num, uint8_t *val) //Ler sinal digital no pino
 }
 
 /* Funções auxiliares da identificação da porta do microcontrolador */
+
+bool firstGPIOinit(void) 
+{
+  bool saida = 0;
+  for (uint8_t portas; portas<sizeof(port_init)/sizeof(port_init[0]); portas++)
+  {
+	saida |= port_init[portas];
+  }
+  return !saida;
+}
 
 struct bit_and_port getPort(uint8_t pin)
 {

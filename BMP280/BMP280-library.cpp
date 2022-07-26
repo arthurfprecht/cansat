@@ -7,6 +7,8 @@
 */
 
 #include <stdint.h>
+#include <stdio.h>
+
 #include <stdbool.h>
 #include <math.h>
 
@@ -470,25 +472,39 @@ void bmp280::getBmpCalibratonData() { // function
   if (b1[21] >> 7) dig_P8 = dig_P8 + 0xFFFF0000;
   dig_P9 = b1[22] + (b1[23] * 256);
   if (b1[23] >> 7) dig_P9 = dig_P9 + 0xFFFF0000;
-  /*
-  if (bmp280Debug) {
-    Serial.println ("(debug) Calibration parameters");
-    Serial.print ("Temperature dig_T1="); Serial.print (dig_T1);
-    Serial.print (" dig_T2="); Serial.print (dig_T2);
-    Serial.print (" dig_T3="); Serial.println (dig_T3);
-    Serial.print ("Pressure    dig_P1="); Serial.print (dig_P1);
-    Serial.print (" dig_P2="); Serial.print (dig_P2);
-    Serial.print (" dig_P3="); Serial.print (dig_P3);
-    Serial.print (" dig_P4="); Serial.println (dig_P4);
-    Serial.print (" dig_P5="); Serial.print (dig_P5);
-    Serial.print (" dig_P6="); Serial.print (dig_P6);
-    Serial.print (" dig_P7="); Serial.print (dig_P7);
-    Serial.print (" dig_P8="); Serial.print (dig_P8);
-    Serial.print (" dig_P9="); Serial.println (dig_P9);
-    Serial.print ("End of calibration parameters for BMP280-");
-    Serial.println (address - bmp280Addr);
-  } // end of if (bmp280Debug)
-  */
+  
+    printf ("Calibration parameters\n");
+	printf ("Temperature\n");
+	while(!buffer_empty(1, 'w'));
+	printf ("uint16_t dig_T1 = %i;\n", dig_T1);
+	while(!buffer_empty(1, 'w'));
+    printf ("uint16_t dig_T2 = %i;\n", dig_T2);
+	while(!buffer_empty(1, 'w'));
+    printf ("uint16_t dig_T3 = %i;\n", dig_T3);
+	while(!buffer_empty(1, 'w'));
+    printf ("Pressure\n");
+	while(!buffer_empty(1, 'w'));
+   	printf ("uint16_t dig_P1 = %i;\n", dig_P1);
+	while(!buffer_empty(1, 'w'));
+    printf ("uint16_t dig_P2 = %i;\n", dig_P2);
+    while(!buffer_empty(1, 'w'));
+	printf ("uint16_t dig_P3 = %i;\n", dig_P3);
+	while(!buffer_empty(1, 'w'));
+    printf ("uint16_t dig_P4 = %i;\n", dig_P4);
+	while(!buffer_empty(1, 'w'));
+    printf ("uint16_t dig_P5 = %i;\n", dig_P5);
+	while(!buffer_empty(1, 'w'));
+    printf ("uint16_t dig_P6 = %i;\n", dig_P6);
+	while(!buffer_empty(1, 'w'));
+    printf ("uint16_t dig_P7 = %i;\n", dig_P7);
+	while(!buffer_empty(1, 'w'));
+    printf ("uint16_t dig_P8 = %i;\n", dig_P8);
+	while(!buffer_empty(1, 'w'));
+    printf ("uint16_t dig_P9 = %i;\n", dig_P9);
+	while(!buffer_empty(1, 'w'));
+    printf ("End of calibration parameters for BMP280\n");
+	while(!buffer_empty(1, 'w'));
+  
 } // end of void bmp280::getBmpCalibratonData()
 
 void bme280::getBmeCalibratonData() { // function

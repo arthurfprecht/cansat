@@ -8,6 +8,8 @@
 #ifndef farmerkeith_BMP280_h
 #define farmerkeith_BMP280_h
 
+#include "..\usart-driver.h"
+
 class bmp280 { // for use with BMP280 sensors
   public:
     // constructors
