@@ -511,9 +511,10 @@ void RF24::startWrite( const void* buf, uint8_t len )
 {
   // Transmitter power-up
   write_register(CONFIG, ( read_register(CONFIG) | _BV(PWR_UP) ) & ~_BV(PRIM_RX) );
-  delayMicroseconds(150);
+  delayMicroseconds(400);
 
   // Send the payload
+
   write_payload( buf, len );
 
   // Allons!
