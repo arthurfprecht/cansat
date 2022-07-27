@@ -109,7 +109,7 @@ static void tarefa_processamento(void *pvParameters)
 		
 		printf("Tempo: %.3fs\n", (double)(dados_recebidos.tempo)/1000);
 		while(!buffer_empty(1, 'w'));
-		/*
+		
 	    printf("Temp: %.1foC \tPres: %.3f kPa \t\n",
 			 dados_recebidos.temp, dados_recebidos.pres/1000);
 	    while(!buffer_empty(1, 'w'));
@@ -117,7 +117,7 @@ static void tarefa_processamento(void *pvParameters)
 		
 		converteDados(dados_recebidos.ac, dados_recebidos.gyr, acc, gyro);
 	    exibeMPU(acc, gyro);
-		*/		
+
 		xQueueSendToBack(fila_dados_processados, (void*)&dados_recebidos, 0);
 		vTaskSuspend(tarefa_processamento_handle);
 		vTaskResume(tarefa_envio_handle);

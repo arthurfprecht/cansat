@@ -6,11 +6,11 @@
         <name>Debug</name>
         <outputs>
             <file>$PROJ_DIR$\adc-driver.c</file>
-            <file>$PROJ_DIR$\main.cpp</file>
             <file>$PROJ_DIR$\pwm-driver.c</file>
-            <file>$PROJ_DIR$\timer-driver.c</file>
             <file>$PROJ_DIR$\led-driver.c</file>
+            <file>$PROJ_DIR$\main.cpp</file>
             <file>$PROJ_DIR$\gpio-driver.c</file>
+            <file>$PROJ_DIR$\timer-driver.c</file>
             <file>$PROJ_DIR$\usart-driver.c</file>
         </outputs>
         <forcedrebuild>
